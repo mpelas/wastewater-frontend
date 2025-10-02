@@ -1,0 +1,4 @@
+functions-framework==3.*
+shapely==2.0.*
+google-cloud-storage
+flask==2.3.*
